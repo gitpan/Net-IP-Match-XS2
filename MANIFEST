@@ -1,0 +1,9 @@
+Changes
+Makefile.PL
+MANIFEST
+XS2.xs
+ppport.h
+README
+t/Net-IP-Match-XS2.t
+lib/Net/IP/Match/XS2.pm
+typemap
